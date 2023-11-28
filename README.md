@@ -1,9 +1,9 @@
 # Web Browser App
 ## Kelompok 1
-1. Irfan Adi Prayogo
-2. Hana Aeni Mustahibah
-3. Fara Raisha Septiana
-4. Afriani Navis Fajar Saturrizqi
+1. Irfan Adi Prayogo             (5302422005)
+2. Fara Raisha Septiana          (5302422007)
+3. Hana Aeni Mustahibah          (5302422011)
+4. Afriani Fajar Navissaturrisqi (5302422021)
 
 ### Features
 1. Menu Bar
@@ -17,7 +17,7 @@
    d. Exit
 
 2. Social Media Toolbar
-   - Berisi mengenai icon social media, dimana ketika diklik akan menampilkan website social media tersebut. Social Media yang tercantum yakni:
+   Berisi mengenai icon social media, dimana ketika diklik akan menampilkan website social media tersebut. Social Media yang tercantum yakni:
      a. Gmail
      b. Tiktok
      c. Youtube
@@ -26,13 +26,13 @@
      f. WhatsApp
      g. Twitter
      
-3. Navigation Bar
+4. Navigation Bar
    a. Back
    b. Forward
    c. Reload (Refresh)
    d. Home Page
    
-4. Custom Search Engine
+5. Custom Search Engine
    Terdapat menu dropdown yang digunakan untuk memilih seacrh engine sesuai dengan keinginan. Search Engine pada menu dropdown yakni:
    a. Google
    b. Bing
@@ -44,7 +44,7 @@
    h. ASK
    i. Ecosia
     
-5. Exit
+6. Exit
    
 ### Use Case Diagram
 ![irfan](usecase.png)
