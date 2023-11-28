@@ -16,6 +16,9 @@
 
 ![hana](Activity_2.png)
 
+### Sequence Diagram
+![Navis](sequence.png)
+
 
 
 
