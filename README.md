@@ -19,6 +19,9 @@
 ### Sequence Diagram
 ![Navis](sequence.png)
 
+### Kode Program
+[](WE OPER)
+
 
 
 
