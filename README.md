@@ -20,7 +20,7 @@
 ![Navis](sequence.png)
 
 ### Kode Program
-![code](WE_OPER.py)
+[code](WE_OPER.py)
 
 
 
