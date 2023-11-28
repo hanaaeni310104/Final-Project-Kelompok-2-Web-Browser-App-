@@ -5,6 +5,12 @@
 3. Fara Raisha Septiana
 4. Afriani Navis Fajar Saturrizqi
 
-Activity Diagram
+### Use Case Diagram
+![irfan](usecase.png)
+
+### Activity Diagram
 ![hana](Activity_1.png)
+
 ![hana](Activity_2.png)
+
+
