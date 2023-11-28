@@ -5,4 +5,5 @@
 3. Fara Raisha Septiana
 4. Afriani Navis Fajar Saturrizqi
 
-![hana](Activity.pdf)
+Activity Diagram
+![hana](Activity_1.pdf)
