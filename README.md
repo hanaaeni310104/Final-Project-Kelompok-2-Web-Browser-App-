@@ -6,7 +6,7 @@
 4. Afriani Navis Fajar Saturrizqi
 
 ### Use Case Diagram
-![irfan]()
+![irfan](usecase.png)
 
 ### Activity Diagram
 ![hana](Activity_1.png)
