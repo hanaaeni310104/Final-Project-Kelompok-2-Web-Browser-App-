@@ -7,42 +7,38 @@
 
 ### Features
 1. Menu Bar
-   a. Tabs
-      - New Tab 
-   b. Menu
-      - Add Bookmark
-      - Delete Bookmark
-   c. Bookmarks
-      - Menyimpan alamat dan situs Website yang pernah dikunjungi
-   d. Exit
+   - Tabs      : New Tab 
+   - Menu      : Add Bookmark, Delete Bookmark
+   - Bookmarks : Menyimpan alamat dan situs Website yang pernah dikunjungi
+   - Exit
 
 2. Social Media Toolbar
    Berisi mengenai icon social media, dimana ketika diklik akan menampilkan website social media tersebut. Social Media yang tercantum yakni:
-     a. Gmail
-     b. Tiktok
-     c. Youtube
-     d. Instagram
-     e. Facebook
-     f. WhatsApp
-     g. Twitter
+     - Gmail
+     - Tiktok
+     - Youtube
+     - Instagram
+     - Facebook
+     - WhatsApp
+     - Twitter
      
 4. Navigation Bar
-   a. Back
-   b. Forward
-   c. Reload (Refresh)
-   d. Home Page
+   - Back
+   - Forward
+   - Reload (Refresh)
+   - Home Page
    
 5. Custom Search Engine
    Terdapat menu dropdown yang digunakan untuk memilih seacrh engine sesuai dengan keinginan. Search Engine pada menu dropdown yakni:
-   a. Google
-   b. Bing
-   c. DuckDuckGo
-   d. Yahoo
-   e. AOL
-   f. Baidu
-   g. Looksmart
-   h. ASK
-   i. Ecosia
+   - Google
+   - Bing
+   - DuckDuckGo
+   - Yahoo
+   - AOL
+   - Baidu
+   - Looksmart
+   - ASK
+   - Ecosia
     
 6. Exit
    
