@@ -7,3 +7,4 @@
 
 Activity Diagram
 ![hana](Activity_1.png)
+![hana](Activity_2.png)
