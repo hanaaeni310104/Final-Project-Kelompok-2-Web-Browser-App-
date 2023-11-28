@@ -6,4 +6,4 @@
 4. Afriani Navis Fajar Saturrizqi
 
 Activity Diagram
-![hana](Activity_1.pdf)
+![hana](Activity_1.png)
