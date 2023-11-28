@@ -8,6 +8,9 @@
 ### Use Case Diagram
 ![irfan](usecase.png)
 
+### Class Diagram
+![Raisha](class.png)
+
 ### Activity Diagram
 ![hana](Activity_1.png)
 
