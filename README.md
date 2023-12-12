@@ -54,7 +54,7 @@
 ![hana](Activity_2.png)
 
 ### Sequence Diagram
-![Navis](sequence.png)
+![Navis](sequence_diagram.png)
 
 ### Kode Program
 [klik disini untuk melihat code](WE_OPER.py)
